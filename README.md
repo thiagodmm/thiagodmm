@@ -1,4 +1,4 @@
-## Olá, eu sou o Thiago.
+## Olá, seja bem vindo à minha página no Git Hub.
 
 - 😀 Atualmente estou trabalhando com Front-end
 - 📖 Estudando Desenvolvimento de Sistemas
