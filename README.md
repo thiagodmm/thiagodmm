@@ -1,6 +1,6 @@
 ## Olá, seja bem vindo à minha página no GitHub.
 
-- 😀 Atualmente estou trabalhando com Front-end
+- 😀 Atualmente estou trabalhando com Front-end, UX/UI Design
 - 📖 Estudando Desenvolvimento de Sistemas
 - 📃 Graduado em Publicidade e Propaganda
 - 📜 Pós-graduado em Marketing e Comunicação
