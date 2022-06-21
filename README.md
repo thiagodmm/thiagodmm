@@ -1,4 +1,4 @@
-## Olá, seja bem vindo à minha página no Git Hub.
+## Olá, seja bem vindo à minha página no GitHub.
 
 - 😀 Atualmente estou trabalhando com Front-end
 - 📖 Estudando Desenvolvimento de Sistemas
