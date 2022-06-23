@@ -1,10 +1,10 @@
 ## Olá, seja bem vindo à minha página no GitHub.
 
 - 😀 Atualmente estou trabalhando com Front-end, UX/UI Design
-- 📖 Estudando Desenvolvimento de Sistemas
+- 📖 Estudando Desenvolvimento de Sistemas no Senac Tech em Porto Alegre/RS
 - 📃 Graduado em Publicidade e Propaganda
 - 📜 Pós-graduado em Marketing e Comunicação
-- 🗿 Pronomes: ele/dele
+- 🗿 Pronomes: Ele/Dele
 - 📬 Como entrar em contato comigo:
 ✉️ thiagodmm@gmail.com
 🌎 www.tmachado.com.br
