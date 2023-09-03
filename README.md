@@ -1,7 +1,7 @@
 ## Olá, seja bem vindo à minha página no GitHub.
 
 - 😀 Atualmente trabalho como Front-end developer, UX/UI designer na Aspin Tecnologia.
-- 📖 Estudando Desenvolvimento de Sistemas no Senac Tech em Porto Alegre/RS
+- 📖 Concluído recentemente Desenvolvimento de Sistemas no Senac Tech em Porto Alegre/RS
 - 📃 Graduado em Publicidade e Propaganda
 - 📜 Pós-graduado em Marketing e Comunicação
 - 🗿 Pronomes: Ele/Dele
